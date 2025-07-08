@@ -8,7 +8,7 @@ The goal is to help a financial institution identify potential subscribers more 
 
 ##  Dataset
 
-- **Source:** Bank Marketing Dataset (similar to UCI Bank Marketing)
+- **Source:** Bank Marketing Dataset: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 - Contains customer demographic and campaign-related features.
 - Target variable: `subscription` (yes/no)
 
