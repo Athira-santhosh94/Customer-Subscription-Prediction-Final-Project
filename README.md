@@ -48,7 +48,6 @@ The goal is to help a financial institution identify potential subscribers more 
 
 ## Conclusion
 
-Machine learning can help predict customer subscription behavior, which supports better marketing decisions. Further improvements could include:
-- Hyperparameter tuning
-- Advanced ensemble methods (e.g., XGBoost)
-- Using precision-recall or ROC-AUC for deeper evaluation
+In this project, I built and compared multiple machine learning models to predict whether a customer will subscribe to a term deposit. After exploring, cleaning, and analyzing the data, I found that the **Random Forest Classifier** gave the best results.
+
+This project shows how data science can help banks target the right customers and run marketing campaigns more effectively. Overall, it improved my skills in data preprocessing, visualization, model building, and evaluation.
